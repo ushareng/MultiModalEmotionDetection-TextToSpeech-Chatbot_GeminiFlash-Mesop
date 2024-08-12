@@ -1,6 +1,6 @@
 # Emotion detection from text, images, audio , Text to Speech and chatbot using Gemini API and Mesop
 
-Usecase :
+# Usecase :
 
 1.Difficulty understanding emotions in multiple modalities like Face , Speech and Text forms important markers in the diagnosis of Autism spectrum Disorder(ASD) . This project aims to help autistic individuals identify emotions in multiple modalities using Gemini . 
 
